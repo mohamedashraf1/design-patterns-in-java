@@ -1,8 +1,5 @@
 package com.design_patterns.factory;
 
-import java.util.ArrayList;
-import java.util.List;
-
 class Person
 {
     public int id;
